@@ -1,0 +1,126 @@
+BOOKS / LONG-FORM SOURCES
+
+1. Helen Keller — The Story of My Life
+   Source: Project Gutenberg
+   Type: Historical first-person
+   Pages: 153
+
+2. Helen Keller — The World I Live In
+   Source: Project Gutenberg
+   Type: Historical first-person
+   Pages: 28
+
+3. The World As I Have Found It
+   Source: Project Gutenberg
+   Type: Historical first-person
+   Pages: 65
+
+4. Through St. Dunstan's to Light
+   Source: Project Gutenberg
+   Type: Historical first-person
+   Pages: 19
+
+5. The Life of John Metcalf, "Blind Jack of Knaresborough"
+   Source: Project Gutenberg
+   Type: Historical first-person
+   Pages: 32
+
+6. Therese-Adele Husson — Reflections
+   Source: Open access, 1820s
+   Type: Historical first-person
+   Pages: 53
+
+7. Five Lectures on Blindness
+   Source: Project Gutenberg
+   Type: Historical practitioner
+   Pages: 30
+
+8. By Touch Alone
+   Source: Open access
+   Type: Historical researcher account
+   Pages: 95
+
+9. Journey to Ithaca: A Personal Memoir
+   Source: Open access
+   Type: First-person memoir
+   Pages: 67
+
+10. The Experiences of Disabled People in Physical Education
+    Source: Open access
+    Type: First-person
+    Pages: 75
+
+11. Teaching Learners with Visual Impairment
+    Source: Open access
+    Type: Practitioner
+    Pages: 147
+
+12. Understanding Education for the Visually Impaired
+    Source: Open access
+    Type: Practitioner
+    Pages: 168
+
+13. The Practical Accomplishment of Living with Visual Impairment: An EM/CA Approach
+    Source: Open access
+    Type: Researcher
+    Chapter: 1
+    Pages: 12
+
+
+ARTICLE SERIES
+
+14. NFB Braille Monitor
+    Source: National Federation of the Blind
+    Coverage: 2018–2026
+    Articles: 132
+    Types:
+      - First-person: 72
+      - Practitioner: 60
+    Topics:
+      - Technology
+      - AI
+      - Be My Eyes
+      - Aira
+      - JAWS
+      - Self-driving cars
+      - Screen readers
+      - VoiceOver vs TalkBack
+      - Legal and advocacy
+    Licence: CC BY-NC-ND
+
+15. AFB AccessWorld
+    Source: American Foundation for the Blind
+    Coverage: 2019 onward
+    Articles: 138
+    Types:
+      - First-person: 71
+      - Practitioner: 67
+    Topics:
+      - App reviews
+      - Device reviews
+      - Product reviews
+      - Book reviews
+      - Letters to the editor
+    Licence: AFB all-rights-reserved; internal use only
+
+
+SURVEY DATA
+
+16. WebAIM Screen Reader User Surveys
+    Source: WebAIM / Utah State University
+    Surveys: #1–#10
+    Type: Survey data
+    Copyright: WebAIM / USU; internal use only
+    Requirement: Cite source when used
+
+17. WebAIM Low-Vision Surveys
+    Source: WebAIM / Utah State University
+    Surveys: #1–#2
+    Type: Survey data
+    Copyright: WebAIM / USU; internal use only
+    Requirement: Cite source when used
+
+18. VizWiz-VQA
+    Type: Derived behavioural summary
+    Subject: What blind and low-vision people ask about photos they take
+    Licence: CC BY 4.0
