@@ -11,3 +11,8 @@ This is a Blind-Agent trained on Data based on resources in `visual_impairment_s
 - [ ] Select a Text Model and Train.
 
 #### Voice Model/Training implementation: TBD
+
+### Repo usage:
+
+- First make sure your device has make commands.
+- run `make data-dir`
